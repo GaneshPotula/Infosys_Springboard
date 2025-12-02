@@ -65,5 +65,5 @@ B.Tech – CSE (AI & ML)
 ---
 
 ## 🔗 GitHub Repository
-*(Add your repo link here once uploaded)*
+https://github.com/GaneshPotula/Infosys_Springboard
 
