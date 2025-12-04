@@ -36,7 +36,6 @@ This project analyzes the classic novel **“Alice in Wonderland”** using text
 - Pie chart shows character appearance distribution  
 - Bar chart shows exact frequency of top characters  
 
-(Insert charts here)
 
 ---
 
